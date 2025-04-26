@@ -1,0 +1,4 @@
+name: StockMC
+version: '1.0-SNAPSHOT'
+main: com.CMaxSwift.stockMC.StockMC
+api-version: '1.21'
